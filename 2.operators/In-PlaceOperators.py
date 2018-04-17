@@ -6,3 +6,9 @@ print (x)
 x+=3 # This statement is same as x = x + 3
 
 print (x)
+
+# Operators can be used on types other than numbers, as well, such as strings.
+x = "spam"
+print(x)
+x += "eggs"  #String addition 
+print(x)
