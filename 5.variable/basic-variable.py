@@ -4,7 +4,7 @@
 var=10
 print (var)
 
-var2 = "Bikram"
+var2 = "Tasty"
 
 print (var2)
 
@@ -14,5 +14,5 @@ print (var2 * 3)
 # so you can assign a string to a variable, 
 # and later assign an integer to the same variable.
 
-var = "Bikr@m"
+var = "Test"
 print (var)
