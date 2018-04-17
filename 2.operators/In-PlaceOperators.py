@@ -10,5 +10,7 @@ print (x)
 # Operators can be used on types other than numbers, as well, such as strings.
 x = "spam"
 print(x)
-x += "eggs"  #String addition 
+x *= 3  #String addition 
+x += "eggs"
+print(x)
 print(x)
