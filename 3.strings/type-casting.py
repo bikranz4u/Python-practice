@@ -6,3 +6,4 @@
 print (int("2") + int("3"))  #O/P: 5
 print ("2" + "3") #O/P: 23
 print (int(a) + int(b))  #O/P:NameError: name 'a' is not defined
+
