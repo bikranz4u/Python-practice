@@ -11,3 +11,10 @@ print (12var)  # This is an invalid variable name  #O/P:-invalid syntax
 var test = 5 
 
 print (var test) # Space is not allowed in variable name #O/P:- invalid syntax
+
+#Lastname,LastName and lastname are three different variable names in Python.
+lastname = "Test"
+Lastname = "Test2"
+LastName = "Test3"
+
+print (lastname, LastName, Lastname)
