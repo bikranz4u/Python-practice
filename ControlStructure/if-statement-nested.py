@@ -8,6 +8,9 @@ if num > 10:
     if num < 10:
         print ("Num is lesser than 10")
 # Different Types of execution
+#If the first "if" is TRUE, so it keep running the inner nested if, 
+#the second inner if is FALSE, 
+#so it stop to run the third one
 num = 12
 if num > 5:
     print("Bigger than 5")
