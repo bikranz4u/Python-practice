@@ -19,7 +19,7 @@ print ((False == False) or True) #True or True => True
 print ("============================================")
 
 print ("What is the result of this code?")
-if 1 + 1 * 3 == 6:
+if 1 + 1 * 3 == 6: 
     print("Yes")
 else:
     print("No")
