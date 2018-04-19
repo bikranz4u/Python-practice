@@ -8,4 +8,4 @@ if num > 10:
     print ("Num is greater than 10")
 else:
     print ("Num is lesser than 10")
-   
+
