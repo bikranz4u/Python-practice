@@ -1,2 +1,0 @@
-HelooWorld='Test'
-print('HelooWorld')
