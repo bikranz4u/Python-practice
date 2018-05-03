@@ -10,3 +10,4 @@ print(str.center(10,'#'))
 print('Count how many times a string occurs :-',str.count('test'))
 
 print('Count how many times a string occurs within the index  :-',str.count('test',0, 15))
+
