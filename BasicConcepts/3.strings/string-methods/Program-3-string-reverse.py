@@ -1,3 +1,6 @@
+#WAP to reverse the string
+#I/P:- Leaning python is easy
+#O/P:- easy is python Learning
 str=input("Enter you a string to reverse:")
 #Resolution ----> Way-1
 print('The reversed string using slice (): ',str [::-1])

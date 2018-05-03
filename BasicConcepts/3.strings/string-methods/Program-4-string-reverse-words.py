@@ -1,3 +1,4 @@
+#WAP to Reverse the Word's in the string
 str=input("Enter  a string to reverse the words in the string :")
 #I/P:- Test Is Good
 #O/P:- Good Is Test
@@ -14,7 +15,7 @@ print(output)   #['good', 'is', 'test']
 print(' '.join(output))
 
 
-
+#==================================
 # Way 2
 
 for x in lst:  #range(start,stop,step)
