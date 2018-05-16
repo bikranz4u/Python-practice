@@ -1,7 +1,9 @@
 #WAP to Reverse the Word's in the string
-str=input("Enter  a string to reverse the words in the string :")
 #I/P:- Test Is Good
 #O/P:- Good Is Test
+
+str=input("Enter  a string to reverse the words in the string :")
+
 lst=str.split()  # You can mention separator here
 print(lst)      #['Test', 'Is', 'Good']
 output=[]
