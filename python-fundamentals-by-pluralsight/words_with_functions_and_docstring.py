@@ -50,3 +50,4 @@ def main(url):
 #print(__name__).  --It will print the __main__
 if __name__ == '__main__':
 	main(sys.argv[1]) # The 0th arg is the module file name
+#Command Line arguments are accessaible through sys.argv

@@ -12,5 +12,5 @@ def fetch_words():
 		print(word)
 
 #print(__name__).  --It will print the __main__
-if __name__ == '__main__':
+if __name__ == '__main__': #Used __name__ to determine how the module is used.
 	fetch_words()
