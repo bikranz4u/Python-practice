@@ -49,4 +49,4 @@ def main(url):
 
 #print(__name__).  --It will print the __main__
 if __name__ == '__main__':
-	fetch_words()
+	main(sys.argv[1])
