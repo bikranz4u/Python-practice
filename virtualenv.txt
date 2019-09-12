@@ -1,0 +1,12 @@
+python -m pip install virtualenv
+python -m virtualenv my_classes
+source my_classes/bin/activate    ||| source my_classes/Scripts/activate
+
+
+
+
+https://files.realpython.com/media/wallpaper-mockup-pythonista.49e591a91ff2.jpg
+
+https://files.realpython.com/media/wallpaper-mockup-coffee-import.d65ab49c9eaf.jpg
+
+https://files.realpython.com/media/wallpaper-mockup-heart-dict.07fa9ca821e7.jpg
