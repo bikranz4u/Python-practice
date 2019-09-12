@@ -14,10 +14,13 @@ conda env list
 #To start working in the newly created environment, type- s
 source activate av
 
+# To install a package
+conda install numpy 
+
 #To check the list of packages installed in the current environment, type -
 conda list
-#To come out of the current working environment, type-
 
+#To come out of the current working environment, type-
 source deactivate av
 
 
