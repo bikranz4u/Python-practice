@@ -3,6 +3,28 @@ python -m virtualenv my_classes
 source my_classes/bin/activate    ||| source my_classes/Scripts/activate
 
 
+###### Creating a Virtual Environment and Installing Anaconda ######
+#To create a new environment and install Anaconda alongside it, type- 
+conda create -n av python=3 anaconda    #Here av is the name of the environment we just created. You #can name it anything
+Type y to accept the installation of packages.
+
+#To check whether the environment was created type- 
+conda env list
+
+#To start working in the newly created environment, type- s
+source activate av
+
+#To check the list of packages installed in the current environment, type -
+conda list
+#To come out of the current working environment, type-
+
+source deactivate av
+
+
+
+
+
+
 
 
 https://files.realpython.com/media/wallpaper-mockup-pythonista.49e591a91ff2.jpg
