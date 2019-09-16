@@ -1,6 +1,14 @@
 python -m pip install virtualenv
 python -m virtualenv my_classes
 source my_classes/bin/activate    ||| source my_classes/Scripts/activate
+--------------------------------------------------------------------------
+#Install virtualenv via pip
+pip install virtualenv
+virtualenv --version
+cd project_folder
+virtualenv venv
+
+---------------------------------------------------------------------------
 
 
 ###### Creating a Virtual Environment and Installing Anaconda ######
